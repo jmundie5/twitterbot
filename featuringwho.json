@@ -1,0 +1,17 @@
+{
+	"origin": ["#artist1# featuring #artist2# \n #numRating# \n #oddSentenceStarter# #oddAdjective# "],
+
+	"artist1" : ["lil durk","keith urban","kacey musgraves","will smith","6 dogs","2chainz","tay-k","dababy", "riff raff", "lil baby", "carrie underwood", "cardi b", "arctic monkeys","sewerperson","elton john","the beetles","juicewrld","elvis presley","michael jackson","rihanna","led zeppelin","eminem","taylor swift","whitney houston","drake","biily joel", "justin bieber","the kid laroi","ed sheeran","olivia rodrigo","doja cat", "lil nas", "dua lipa","bts","ariana grande"],
+
+
+	"artist2" : ["lil durk","keith urban","kacey musgraves","will smith","6 dogs","2chainz","tay-k","dababy", "riff raff", "lil baby", "carrie underwood", "cardi b", "arctic monkeys","sewerperson","elton john","the beetles","juicewrld","elvis presley","michael jackson","rihanna","led zeppelin","eminem","taylor swift","whitney houston","drake","biily joel", "justin bieber","the kid laroi","ed sheeran","olivia rodrigo","doja cat", "lil nas", "dua lipa","bts","ariana grande"],
+
+
+	"numRating" : ["☆☆☆☆☆", "★☆☆☆☆", "★★☆☆☆", "★★★☆☆", "★★★★☆", "★★★★★"],
+
+	"oddSentenceStarter" : ["somehow feels", "gives", "comes across as", "surprisingly, feels","maybe too","a bit too","makes the listener feel","when was it possible to be this","somehow came out feeling"],
+
+	"oddAdjective" :  ["crunchy", "agonizing", "oddly moist","agreeable","average","charming","courageous","dangerous","disturbed","dull","aggressive","mean","creepy","delightful","distinct","energetic","evil","filthy","encouraging","fantastic","frantic","glorious","magnificent","outrageous"]
+
+
+}
